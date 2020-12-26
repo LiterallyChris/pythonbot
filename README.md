@@ -1,18 +1,39 @@
-# pythonbot
-Learn to code your Discord Bot!
+# Python Bot
 
+Hello, I'm Chris, and I'm gonna show you
+how to make a good looking discord bot all by yourself!
 
-Make sure that before you do any of this, you have Python and any code editor that supports Python (PyCharm Recommended) installed.
-And if you have installed the tools thro python, you may continue.
+First go to https://discord.com/developers/applications
+and create an app. Then, copy the client ID
+and go to https://discordapi.com/permissions.html#0 and copy
+the client ID to add it to your server.
 
+It will be offline! But we are going to do a little magic
+to bring it online!
 
-If you don't have Python, go to: https://python.org
+Go to https://python.org and download the latest version.
+We will use this coding langueage to get the tools and code.
+When the installer is open, click Install to path (very important)
+and then install now.
 
-and once you have the installer, click install to path, and then install now.
+After it is done installing, open command prompt,
+and type "pip install discord" or "pip install discord.py"
+which will install the tools we need to code the bot.
 
-If you don't install to path, it won't work.
+After that get a code editor!
+We will use this to edit the code.
 
-After that, go to command prompt and type "pip install discord"
-and it will install the tools we need to code the bot.
+There are a lot of good options:
+Sublime Text: https://www.sublimetext.com/
+PyCharm: https://www.jetbrains.com/pycharm/download/#section=windows
+Visual Studio Code: https://code.visualstudio.com/
 
-Then open main.py with PyCharm Community, and you can get started!
+After that, go to the releases of this Github,
+and download File 1.
+
+Extract the zip.
+Right click on it and then open in whatever code editor you are using,
+or go into the code editor, open folder, and there.
+
+After all that, you can finally get started
+making your new shiny discord bot!
