@@ -43,3 +43,7 @@ or go into the code editor, open folder, and there.
 
 After all that, you can finally get started
 making your new shiny discord bot!
+
+# DISCLAIMER
+
+1/5/2020: I have released file 3 for learning how to make your own Discord bot. I have mentioned that it has the python files already, so you don't need to download python if your starting on that part. However, you must still choose your python interputer as the venv folder and do the pip install discord in the terminal/console of your code editor if you haven't done already.
