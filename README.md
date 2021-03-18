@@ -1,7 +1,7 @@
 # Intro
 
 Hello, I'm Chris, and I'm gonna show you
-how to make a good looking discord bot all by yourself!
+how to make a good looking discord bot all by yourself! (ish)
 
 # Application
 First go to https://discord.com/developers/applications
